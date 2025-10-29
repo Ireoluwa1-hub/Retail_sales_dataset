@@ -48,4 +48,7 @@ The dataset used for this analysis was obtained from a retail_sales_dataset file
 - Enhance the **Beauty Category** through promotion, discounts, or rebranding strategies.
 - Add **Mid-Year Promotional campaigns** (July-September) to increase sales during slow month.
 - Improve **Inventory and marketing activities** before high demand months **April and November**
-- 
+
+
+
+ #Oasisinfobyte,#oasisinfobytefamily,#AkinbiyiBlessingIrewunmi#
